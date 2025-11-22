@@ -1,0 +1,8 @@
+#access_token: replace_with_your_secret
+#如果下面的路径目录创建失败，请改为其他目录
+data_dir: /data/workdir
+display_payinfo: True
+copyright: '该软件对公众开放, 作者不对软件具备任何控制力, 使用软件者、传播软件导出的视频者自负全责.
+如不认可该条款, 则不能使用或引用软件包内任何代码和文件。
+使用文档：https://df58aaahqa.feishu.cn/docx/N65Jd2QwNodsmvxDvWQcvLJQnLM?from=from_copylink
+公众号：智能复现，网站地址：https://www.mindtechassist.com/'
